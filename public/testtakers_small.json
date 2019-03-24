@@ -1,0 +1,46 @@
+[
+  {
+    "login":"fosterabigail",
+    "password":"cheng",
+    "title":"mrs",
+    "lastname":"foster",
+    "firstname":"abigail",
+    "gender":"female",
+    "email":"abigail.foster60@example.com",
+    "picture":"http://api.randomuser.me/0.2/portraits/women/10.jpg",
+    "address":"1851 saddle dr anna 69319"
+  },
+  {
+    "login":"grahamallison",
+    "password":"steel",
+    "title":"ms",
+    "lastname":"graham",
+    "firstname":"allison",
+    "gender":"female",
+    "email":"allison.graham70@example.com",
+    "picture":"http://api.randomuser.me/0.2/portraits/women/35.jpg",
+    "address":"6697 rolling green rd colorado springs 56306"
+  },
+  {
+    "login":"clarksusan",
+    "password":"cameltoe",
+    "title":"miss",
+    "lastname":"clark",
+    "firstname":"susan",
+    "gender":"female",
+    "email":"susan.clark11@example.com",
+    "picture":"http://api.randomuser.me/0.2/portraits/women/33.jpg",
+    "address":"3627 groveland terrace ennis 70832"
+  },
+  {
+    "login":"howardnicholas",
+    "password":"original",
+    "title":"mr",
+    "lastname":"howard",
+    "firstname":"nicholas",
+    "gender":"male",
+    "email":"nicholas.howard84@example.com",
+    "picture":"http://api.randomuser.me/0.2/portraits/men/14.jpg",
+    "address":"7964 e center st van alstyne 19750"
+  }
+]
